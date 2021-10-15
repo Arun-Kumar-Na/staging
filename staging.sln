@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "staging", "staging\staging.csproj", "{4F114CF8-7BD9-43F4-8FE9-FE9A8B475BDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F114CF8-7BD9-43F4-8FE9-FE9A8B475BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F114CF8-7BD9-43F4-8FE9-FE9A8B475BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F114CF8-7BD9-43F4-8FE9-FE9A8B475BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F114CF8-7BD9-43F4-8FE9-FE9A8B475BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE2CC388-4596-4DF6-83DD-7C9448942F36}
+	EndGlobalSection
+EndGlobal
